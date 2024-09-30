@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: rgb(201, 216, 236);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(45, 42, 130);
+    color: white;
+    padding: 20px;
+}
+
+h1 {
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza os itens */
+    margin-top: 50px;
+}
+
+.item {
+    text-align: center;
+    width: 453px;
+    border: 2px solid rgb(45, 42, 130);
+    border-radius: 10px;
+    padding: 10px;
+    background-color: white;
+    margin: 50px 0; /* Margem apenas vertical */
+}
+
+p {
+    color: black;
+}
+
+.btn-comprar {
+    background-color: #4a96de;
+    color: white;
+    padding: 15px 30px;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.btn-comprar:hover {
+    background-color: #0f3d5f;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(45, 42, 130);
+}

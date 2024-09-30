@@ -1,0 +1,54 @@
+#erro {
+    color: red;
+    
+}
+body {
+    background-color: rgb(166, 204, 235);
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #000000; /* Azul mais forte para o título */
+}
+
+
+
+input {
+    padding: 10px;
+    border: 1px solid #007bff;
+    border-radius: 5px;
+    width: calc(100% - 22px); /* Ajusta largura considerando padding */
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    background-color: #007bff; /* Azul do botão */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3; /* Azul mais escuro ao passar o mouse */
+}
+#imagem{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+
+div{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+
+}
+

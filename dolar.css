@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex; /* Ativa o flexbox no corpo */
+    justify-content: center; /* Centraliza a caixa horizontalmente */
+    align-items: center; /* Centraliza a caixa verticalmente */
+    height: 100vh; /* Preenche a altura total da janela */
+    margin: 0; /* Remove margens padrão */
+    background-color: rgb(166, 204, 235);
+}
+
+label {
+    font-weight: bold;
+}
+
+p {
+    margin: 0;
+}
+
+label, p, h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+}
+
+.caixa {
+    background-color: rgb(90, 129, 202); /* Cor azul-marinho */
+    color: white; /* Texto branco para contraste */
+    border-radius: 10px; /* Bordas arredondadas */
+    padding: 20px; /* Espaçamento interno */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Sombra para destaque */
+    display: flex;
+    flex-direction: column;
+    align-items: center; /* Centraliza os itens dentro da caixa */
+    width: 300px; /* Largura fixa para a caixa */
+}

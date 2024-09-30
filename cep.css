@@ -1,0 +1,54 @@
+body {
+    background-color: rgb(166, 204, 235);
+    font-family: Arial, sans-serif;
+    color: rgb(44, 104, 161);
+    margin: 0;
+    padding: 20px; /* Espaçamento em volta do conteúdo */
+}
+
+h1 {
+    text-align: left; /* Alinhado à esquerda */
+    color: rgb(44, 104, 161);
+    margin-bottom: 20px; /* Espaçamento abaixo do título */
+}
+
+.caixa {
+    background-color: white;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.2);
+    width: 320px;
+    display: flex;
+
+}
+
+fieldset {
+    border: 2px solid rgb(44, 104, 161);
+    border-radius: 8px;
+    padding: 40px;
+    background-color: rgb(240, 245, 250);
+}
+
+legend {
+    font-size: 1.2rem;
+    color: rgb(44, 104, 161);
+    padding: 0 10px;
+}
+
+label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1rem;
+    color: rgb(44, 104, 161);
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    border: 2px solid rgb(38, 137, 213);
+    font-size: 1rem;
+    outline: none;
+    transition: border-color 0.3s ease;
+}

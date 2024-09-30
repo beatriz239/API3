@@ -1,0 +1,63 @@
+
+</head>
+<body>
+  <h1>lista dos cadastros de CPF📂💳</h1>
+<table>
+        <thead>
+            <tr>
+                <th>Nome</th>
+                <th>CPF</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Beatriz</td>
+                <td>47803259863</td>
+            </tr>
+            <tr>
+                <td>Bianca</td>
+                <td>12345678910</td>
+            </tr>
+            <tr>
+                <td>Bruno</td>
+                <td>12345678911</td>
+            </tr>
+            <tr>
+                <td>Ana</td>
+                <td>12345678912</td>
+            </tr>
+            <tr>
+                <td>Carlos</td>
+                <td>12345678913</td>
+            </tr>
+            <tr>
+                <td>Fernanda</td>
+                <td>12345678914</td>
+            </tr>
+            <tr>
+                <td>Lucas</td>
+                <td>12345678915</td>
+            </tr>
+            <tr>
+                <td>Juliana</td>
+                <td>12345678916</td>
+            </tr>
+            <tr>
+                <td>Rafael</td>
+                <td>12345678917</td>
+            </tr>
+            <tr>
+                <td>Murilo</td>
+                <td>12345678918</td>
+            </tr>
+            <tr>
+                <td>Thiago</td>
+                <td>12345678919</td>
+            </tr>
+            <tr>
+                <td>Beatriz Martins</td>
+                <td>12345678920</td>
+            </tr>
+        </tbody>
+    </table>
+    <h3>link do site:  https://beatriz239.github.io/API3/</h3>
